@@ -85,13 +85,13 @@ Revenue & Payment Channel Forecasting
 
 Customer Behavior Analysis
 
-📷 Sample Screenshots (Optional)
-Replace image paths if hosting screenshots
+📷 Sample Screenshots 
+
 
 md
 Copy
 Edit
-![Overview](./assets/overview.jpg)  
+![Overview] https://github.com/anu13771/Uber-Analysis/blob/main/Snapshot%20of%20Dashboard1.jpg
 ![Time Analysis](./assets/time.jpg)  
 ![Details](./assets/details.jpg)
 ✅ Outcome
