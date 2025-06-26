@@ -87,22 +87,8 @@ Customer Behavior Analysis
 
 📷 Sample Screenshots 
 
-
-md
-Copy
-Edit
-![Overview] https://github.com/anu13771/Uber-Analysis/blob/main/Snapshot%20of%20Dashboard1.jpg
-![Time Analysis](./assets/time.jpg)  
-![Details](./assets/details.jpg)
-✅ Outcome
-Delivered a visually intuitive and insight-rich Power BI dashboard showcasing core data analytics and business intelligence skills relevant for roles such as:
-
-Data Analyst
-
-Business Intelligence Analyst
-
-Power BI Developer
-
-Data Visualization Specialist
+[Overview] https://github.com/anu13771/Uber-Analysis/blob/main/Snapshot%20of%20Dashboard1.jpg
+[Time Analysis](https://github.com/anu13771/Uber-Analysis/blob/main/Snapshot%20of%20Dashboard%202.jpg) 
+[Details](./assets/details.jpg)
 
 
