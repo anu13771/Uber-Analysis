@@ -88,7 +88,9 @@ Customer Behavior Analysis
 📷 Sample Screenshots 
 
 [Overview] https://github.com/anu13771/Uber-Analysis/blob/main/Snapshot%20of%20Dashboard1.jpg
+
 [Time Analysis] https://github.com/anu13771/Uber-Analysis/blob/main/Snapshot%20of%20Dashboard%202.jpg
-[Details](./assets/details.jpg)
+
+[Details](https://github.com/anu13771/Uber-Analysis/blob/main/Snapshot%20of%20Dahboard%203.jpg
 
 
