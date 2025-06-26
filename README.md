@@ -1,27 +1,45 @@
-🚖 Uber Trip Analysis Dashboard
-📊 Project Overview
-This Power BI dashboard provides a detailed analysis of Uber trip data for the month of June 2024, covering key performance metrics such as total bookings, revenue, distance traveled, time patterns, and vehicle usage. The dashboard is designed to help stakeholders understand business performance, user behavior, and operational efficiency.
+Uber Trip Analysis Dashboard – Power BI Project
 
-📌 Key Features
-✅ Overview Analysis
-Total Bookings: 103.7K trips
+📌 Project Summary
+Designed and developed an interactive Power BI dashboard to perform in-depth analysis of Uber trip data for June 2024. The project highlights key business metrics, vehicle performance, time-based trends, and customer behavior patterns. This dashboard helps stakeholders derive actionable insights from transportation data to improve business decision-making.
 
-Total Revenue: $1.6M
+💼 Key Skills Demonstrated
+Power BI Development
+
+Data Cleaning & Transformation (Power Query)
+
+Data Modeling
+
+DAX (Data Analysis Expressions)
+
+Data Visualization
+
+Time Series & Location Analytics
+
+Interactive Dashboards for Business Intelligence
+
+📊 Dashboard Features
+🔹 Overview Analysis Page
+Total Bookings: 103.7K
+
+Total Booking Revenue: $1.6 Million
 
 Average Booking Value: $15
 
 Total Trip Distance: 349K miles
 
-Top Pickup Point: Penn Station / Madison Sq West
+Frequent Pickup: Penn Station / Madison Sq West
 
-Top Dropoff Point: Upper East Side North
+Frequent Dropoff: Upper East Side North
 
-Farthest Trip: 144.1 miles
+Most Preferred Vehicle: UberX
 
-🚗 Vehicle Type Analysis
-Breakdown of total bookings, revenue, and distance by vehicle type:
+Farthest Trip Tracked: 144.1 miles
 
-UberX
+🔹 Vehicle Type Analysis
+Breakdown of total bookings, total revenue, and distance traveled for:
+
+UberX (Most booked)
 
 UberXL
 
@@ -31,63 +49,60 @@ Uber Comfort
 
 Uber Black
 
-⏰ Time-Based Analysis
-Hourly Booking Trends: Highest demand around 6AM–6PM
+🔹 Time-Based Analysis
+Hourly Pickup Trends (6 AM to 6 PM peak)
 
-Day-wise Bookings: Peak usage on weekends (Friday–Sunday)
+Day-wise Booking Pattern (Weekends show highest demand)
 
-Heatmap: Hour & day intersection for better time targeting
+Heatmap: Bookings by Hour & Day (for scheduling & fleet optimization)
 
-📍 Details Page
-Granular trip-level data:
+🔹 Detailed Trip Table
+Trip-level data with fields:
+Trip ID, Pickup Date, Vehicle Type, Payment Type, Trip Distance, Amount, Pickup Hour, Location, etc.
 
-Trip ID, Date, Vehicle, Payment Type
+📂 Tools & Technologies
+Tool	Purpose
+Power BI	Dashboard development & visuals
+Power Query	Data cleaning & transformation
+DAX	Metrics calculation & filtering
+Excel/CSV	Data source
 
-Distance, Amount, Location, Pickup Hour
+📈 Key Business Insights
+Uber Pay used for 67% of total bookings
 
-📁 Dataset
-The analysis uses trip data filtered for 01–30 June 2024, including:
+UberX accounts for the highest revenue and distance
 
-Vehicle details
+Peak demand observed between Friday and Sunday
 
-Passenger count
+High-traffic zones: Central Harlem, East Harlem, Penn Station
 
-Trip distance and time
+🧩 Use Case Applications
+Fleet Management Optimization
 
-Payment types
+Marketing Campaign Planning
 
-Pickup and dropoff locations
+Revenue & Payment Channel Forecasting
 
-📌 Insights Generated
-UberX is the most preferred vehicle, with 38.7K bookings
+Customer Behavior Analysis
 
-Uber Pay dominates as the most used payment method (67%)
+📷 Sample Screenshots (Optional)
+Replace image paths if hosting screenshots
 
-Users prefer day trips over night trips
+md
+Copy
+Edit
+![Overview](./assets/overview.jpg)  
+![Time Analysis](./assets/time.jpg)  
+![Details](./assets/details.jpg)
+✅ Outcome
+Delivered a visually intuitive and insight-rich Power BI dashboard showcasing core data analytics and business intelligence skills relevant for roles such as:
 
-Strategic focus on weekends can boost revenues
+Data Analyst
 
-Central and East Harlem areas are highly active zones
+Business Intelligence Analyst
 
-🛠️ Tools & Technologies Used
-Power BI Desktop
+Power BI Developer
 
-DAX (Data Analysis Expressions)
-
-Data Modeling & Transformation
-
-📷 Screenshots
-Overview Page	
-Time Analysis	
-Detailed View
+Data Visualization Specialist
 
 
-📈 Use Cases
-Marketing strategies based on peak booking times
-
-Fleet optimization by vehicle and location
-
-Payment trends for financial forecasting
-
-🙌 Acknowledgements
-Thanks to the Uber dataset and the Power BI community for enabling this deep-dive analytics experience.
